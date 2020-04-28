@@ -7,6 +7,6 @@ Use a list comprehension to create a list of names <strong>passed</strong> that 
 <strong>INSTRUCTIONS</strong>
 
 1. Download and unzip the repository folder.
-2. Open, compile and run the break_continue.py file with Python 3 to see the project.
+2. Open, compile and run the list_comprehensions.py file with Python 3 to see the project.
 
 # Author: Andrés R. Bucheli.
